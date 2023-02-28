@@ -1,0 +1,252 @@
+[[Baobzi]]
+arch = "aarch64"
+git-tree-sha1 = "3f8195bf6480e64174c113030ea66a8cb06c3522"
+os = "macos"
+
+    [[Baobzi.download]]
+    sha256 = "2216078e3d57e49e370a835db1125947c79c602b695d86e50db78706d46cdb53"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.aarch64-apple-darwin.tar.gz"
+[[Baobzi]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a602b04dd01f45e091b618e46d4cec25ba356d05"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "ddbd5807f6b5b550b12ff060a418cbd8b566a7efa405580d8721fb714906cc73"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.aarch64-linux-gnu-cxx03.tar.gz"
+[[Baobzi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e16803bd5a9d9945ecaf9ebf534bd4fbff3b74e"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "492fef62ca58115a9499c52a55d14cf2dee4afa4b327704f53d5b9b9a38b96f1"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.aarch64-linux-gnu-cxx11.tar.gz"
+[[Baobzi]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0e8781c5f28a213304b21c56ba269e82a726965c"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "66809b57fa6835ce2682f39d9e8b2daeed6230c9c0a00aef0aa3f95bb02f8655"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.aarch64-linux-musl-cxx03.tar.gz"
+[[Baobzi]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bfb07d8e772e343afdd47289225dc41029af71d1"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "196f56f12401512207df3e85756aac1e33517dea26d65636f8183dddc3900b37"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.aarch64-linux-musl-cxx11.tar.gz"
+[[Baobzi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23bbe52c8a4577628a42f038555e0c26c68de378"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "38e38ffce39fae3f3769c6669f541fd92edfd39869e9d3b5dc9c4752dcb67302"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Baobzi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ef5658e737d8da5e614501e70536b2375696c9e4"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "7511b68a0b5c8b727a213db154b0efe1a60d25ee5edc8f516468bbadf1def274"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Baobzi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b02621afe5ba5c018a9c83fe020f26af92093b61"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "055bea703655680f21c6ccd61e9ffc66b681ec15f7ff44060d0f6c37759ab052"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Baobzi]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c953d716f6d36e7ca86a2be328c8a7983ed3f1b5"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "45676786ccb8187fee75c9af3df48e277e672f26576f82644731d63c74e1a24c"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Baobzi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e6138e02f37f0a37344b569d4a1d38edff78bfd7"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "98d413935e4b8eb3d4f690b4efad9369697b8ee48fb7beb2ccce7c73562a68f8"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Baobzi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6a049fa18e6ec636106b11e45166c6a2d694d957"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "d517461567e48909b6ccbb2b7d25b6e7b5e27a079ee14c9bba00117ac23b0bf0"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Baobzi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "245482e3cd1509bc65d6a5889769b1d69b91db01"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "6423e51b85c51b929c780c2c4b027df08095c5a03a765c4c9d0ba4db6bd049a7"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Baobzi]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ffc2892db09a0bbcfd51463860f46b3eb41e1d1"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "951627f27283bbf9c4fc10252f03f54b463df204e20a7f12e3f60a9965533b73"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Baobzi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "90a7d0a08bac2137fadcec7d7acfd0131db8fda9"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "be6d7a9d6762446e42319ea0c2a159b013ae6fba50789fcbe3a41030e7b4947f"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.i686-linux-gnu-cxx03.tar.gz"
+[[Baobzi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba15bb8dca950c5a580db9a555699acf3d8e71e1"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "866130451b283fe5e945265a6117df7c4346082a03a05c5cfb474b05fcff3e75"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.i686-linux-gnu-cxx11.tar.gz"
+[[Baobzi]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b81b131b02a745a8aae5e23a55a38c67664b8887"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "fd43bb375e23c26183f88dc13548de9c6d7d8d73b9f091b07bcc85d83718b6b9"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.i686-linux-musl-cxx03.tar.gz"
+[[Baobzi]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0825e2b11d69d0b47723f778c47c551c323c518c"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "81559e6b38bbd3f004c623bf85dcbbe91bb61e223ca50f8ccd50bd1aa03c1e6b"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.i686-linux-musl-cxx11.tar.gz"
+[[Baobzi]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb9fe573593334aaa9449e1de3e62e39ea8a4042"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "c02187da27aae49ace3d32b57e8857398de26c34348ed36245016bb962584969"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Baobzi]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26114c1f692b583523857b44b37cc35ae4062f06"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "91ff4a850986496385bf9b1bbd6d0435371538d7d2060b663d5b98f50231ff1d"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Baobzi]]
+arch = "x86_64"
+git-tree-sha1 = "a69a617d05588f2bd09092e55b76cd315c5d7423"
+os = "macos"
+
+    [[Baobzi.download]]
+    sha256 = "95108fec879ca4cb96ab22bb05ebe1ef10a3e8b34b6b9371d709da95f0b88671"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.x86_64-apple-darwin.tar.gz"
+[[Baobzi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5470a0a3f5192b7b1ff9241f288cac2ce408ebb9"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "4d6e20db2e651e94a5752707664f9b5a1275168a89915b40115fae204b0f4a58"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.x86_64-linux-gnu-cxx03.tar.gz"
+[[Baobzi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b1ba40bac5ea8e115dc13fd5073f2af6b6ddb938"
+libc = "glibc"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "dfdf960e7b914cfd43f4e50eb0bae228ecc70ecfa5867bc38bc948c467e475c9"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.x86_64-linux-gnu-cxx11.tar.gz"
+[[Baobzi]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "89ed0f8c93a9f9c9e44350ac9bffc9944b5e9e4f"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "a3656c13852ca6cc02d5ffe408e87a8c73b45b70521108fd66c73c61ed440f68"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.x86_64-linux-musl-cxx03.tar.gz"
+[[Baobzi]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b26294000efe93686ac7122e3f669d5dfcadcc06"
+libc = "musl"
+os = "linux"
+
+    [[Baobzi.download]]
+    sha256 = "a2800e635c19a4660247add68ab414c65cbc22534546ba48881a0ec00a03d7c6"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.x86_64-linux-musl-cxx11.tar.gz"
+[[Baobzi]]
+arch = "x86_64"
+git-tree-sha1 = "b4720ea69c11379a6dbf3f41eddf8ed9859160ec"
+os = "freebsd"
+
+    [[Baobzi.download]]
+    sha256 = "55aba9334bbcab8944b4c610f3648fe25533215ab8f658184b8b894b7d60eed8"
+    url = "https://github.com/JuliaBinaryWrappers/Baobzi_jll.jl/releases/download/Baobzi-v0.9.6+0/Baobzi.v0.9.6.x86_64-unknown-freebsd.tar.gz"
